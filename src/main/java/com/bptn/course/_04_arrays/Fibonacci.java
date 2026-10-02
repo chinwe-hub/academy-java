@@ -33,6 +33,5 @@ public class Fibonacci {
           System.out.print(fibonacci[i]+", ");
         }
         
-        // test
     }
 }
