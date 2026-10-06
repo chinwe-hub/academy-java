@@ -28,7 +28,7 @@ public class SmoothieCalculator {
 
         // Define some order details
         double smoothiePrice = 5.50; // Price for one smoothie
-        int numberOfSmoothiesOrdered = 3; // Number of smoothies
+        int numberOfSmoothiesOrdered = 3; // Number of smoothie
 
         // Call our custom method!
         // We're passing 'smoothiePrice' and 'numberOfSmoothiesOrdered' as "ingredients"
